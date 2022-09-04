@@ -6,10 +6,10 @@
       "password": "demo",
       "id": 1,
       "balance": {
-        "RUB": 1000,
+        "RUB": 778,
         "USD": 20,
-        "EUR": 20,
-        "NTC": 3000
+        "EUR": 21.660613729622195,
+        "NTC": 3002.799053411028
       }
     },
     {
@@ -19,7 +19,7 @@
       "id": 2,
       "netocoins": 100,
       "balance": {
-        "RUB": 20,
+        "RUB": 120,
         "USD": 0,
         "EUR": 0,
         "NTC": 100
@@ -31,8 +31,8 @@
       "password": "demo",
       "id": 3,
       "balance": {
-        "RUB": 20000,
-        "USD": 300,
+        "RUB": 11000,
+        "USD": 465.6416211014174,
         "EUR": 500,
         "NTC": 50000
       }
@@ -60,12 +60,50 @@
         "EUR": 600,
         "NTC": 90000
       }
+    },
+    {
+      "created_at": "2022-09-03T20:58:02.866Z",
+      "login": "vladimiпапрr@demo.ru",
+      "password": "demio",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2022-09-03T21:28:01.274Z",
+      "login": "jana@demo.ru",
+      "password": "demio",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2022-09-03T21:28:47.263Z",
+      "login": "test@mail.ru",
+      "password": "1234",
+      "id": 8,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
     }
   ],
   "favorites": {
     "1": {
       "2": "Ваня дурачок",
-      "3": "Пират Петр"
+      "3": "Пират Петр",
+      "4": "Василий",
+      "9": "9"
     },
     "2": {
       "1": "Чувак, который должен 20к неткойнов",
